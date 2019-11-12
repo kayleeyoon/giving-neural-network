@@ -1,6 +1,8 @@
 # neural-networks
 Using contact information in Salesforce such as relationship to the college, past giving, event attendance, 
-contact reports, and many more features, I was able to predict how much someone would give to my college in the next year.
+contact reports, and many more features, I was able to predict how much someone would give to my college in the next year. 
+
+My final model had over a 90% test accuracy and has helped my college better organize their fundraising efforts.
 
 In order to have a better understanding of the math behind neural networks, I decided not to use any machine learning libraries.
 I started with a basic XOR neural network, then worked on a neural network that classified emails as spam or not spam.  
